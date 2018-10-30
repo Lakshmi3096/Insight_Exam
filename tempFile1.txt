@@ -1,0 +1,10 @@
+FL   2   18%
+DE   1   9%
+TX   1   9%
+WORKSITE_STATE   1   9%
+MD   1   9%
+WA   1   9%
+GA   1   9%
+AL   1   9%
+NJ   1   9%
+CA   1   9%
